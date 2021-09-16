@@ -1,11 +1,16 @@
-# Hi :blush: Welcome to here! :wave:
+# Hi there, I'm Alvaro Samudio :blush: Welcome to here! :wave: ![](https://komarev.com/ghpvc/?username=alvarosamudio&color=blue)
 <!--
 **alvarosamudio/alvarosamudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![](https://komarev.com/ghpvc/?username=alvarosamudio&color=blue)
+- ⚔️ Cybersecurity enthusiast. 🛡️
+- ⚙️ Open source.
+- 🌱 Nature lover.
+- ⚡ I like to program 👨💻, read 📚, take pictures 📸.
+- 📫 You can find my contact information on the left.
+🏴‍☠️
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=alvarosamudio&show_icons=true&icon_color=66ccff&text_color=24292e&bg_color=ffffff&hide_title=true")
+<br>
 
-## Most Used Languages
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=alvarosamudio&show_icons=true&icon_color=66ccff&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarosamudio&langs_count=8&hide_title=true)
