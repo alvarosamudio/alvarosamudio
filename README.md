@@ -15,8 +15,8 @@
   [![GitHub Sponsors](https://img.shields.io/github/sponsors/alvarosamudio?label=GH%20sponsors&style=flat)](https://github.com/sponsors/alvarosamudio)
 
   [![OS:Deepin](https://img.shields.io/badge/OS-Deepin-blue?style=flat-square&logo=deepin)](https://deepin.org)
-  [![OS:Windows11](https://img.shields.io/badge/OS-Windows10-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
-  [![OS:Android12](https://img.shields.io/badge/OS-Android11-blue?style=flat-square&logo=android)](https://www.android.com/)
+  [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
+  [![OS:Android13](https://img.shields.io/badge/OS-Android13-blue?style=flat-square&logo=android)](https://www.android.com/)
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 
   [![email](https://img.shields.io/badge/Email-alvarosamudio@criptext.com-blue?style=flat-square&logo=Mail.Ru)](mailto:alvarosamudio@criptext.com)
