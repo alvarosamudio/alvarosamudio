@@ -15,7 +15,7 @@
   [![GitHub Sponsors](https://img.shields.io/github/sponsors/alvarosamudio?label=GH%20sponsors&style=flat)](https://github.com/sponsors/alvarosamudio)
 
   [![OS:Deepin20.9](https://img.shields.io/badge/OS-Deepin20.9-blue?style=flat-square&logo=deepin)](https://deepin.org)
-  [![OS:DeepinV23 Alpha2](https://img.shields.io/badge/OS-Deepin%20V23%20Alpha%202-blue?style=flat-square&logo=deepin)](https://deepin.org)
+  [![OS:DeepinV23 Beta](https://img.shields.io/badge/OS-Deepin%20V23%20Beta%20-blue?style=flat-square&logo=deepin)](https://deepin.org)
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
   [![OS:Android13](https://img.shields.io/badge/OS-Android13-blue?style=flat-square&logo=android)](https://www.android.com/)
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
