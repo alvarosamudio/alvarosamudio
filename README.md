@@ -19,7 +19,7 @@
   [![OS:SteamOS](https://img.shields.io/badge/SteamOS-Deck-blue?style=flat-square&logo=steamdeck)](https://www.steamdeck.com/en/software)
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 
-  [![email](https://img.shields.io/badge/Email-alvarosamudio@criptext.com-blue?style=flat-square&logo=Mail.Ru)](mailto:alvarosamudio@criptext.com)
+  [![email](https://img.shields.io/badge/Email-alvarosamudio@protonmail.com-blue?style=flat-square&logo=Mail.Ru)](mailto:alvarosamudio@protonmail.com)
   [![instegram](https://img.shields.io/badge/Instagram-alvarosamudio-blue?style=flat-square&logo=instagram)](https://www.instagram.com/alvarosamudio)
   [![X](https://img.shields.io/badge/X-alvarolsamudio-blue?style=flat-square&logo=x)](https://x.com/alvarolsamudio)
   [![Gist.GitHub:alvarosamudio](https://img.shields.io/badge/Gist-alvarosamudio-blue?style=flat-square&logo=GitHub)](https://gist.github.com/alvarosamudio)
