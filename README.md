@@ -16,7 +16,7 @@
 
 [![OS:Deepin 25 Preview](https://img.shields.io/badge/Deepin-25%20Preview-blue?style=flat-square&logo=deepin)](https://deepin.org)
   [![OS:macOS Sequoia](https://img.shields.io/badge/macOS-Sequoia-blue?style=flat-square&logo=apple)](https://www.apple.com/macos/macos-sequoia/)
-  [![OS:SteamOS]((https://img.shields.io/badge/SteamOS-Deck-blue?style=flat-square&logo=steamdeck))](https://www.steamdeck.com/en/software)
+  [![OS:SteamOS](https://img.shields.io/badge/SteamOS-Deck-blue?style=flat-square&logo=steamdeck)](https://www.steamdeck.com/en/software)
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 
   [![email](https://img.shields.io/badge/Email-alvarosamudio@criptext.com-blue?style=flat-square&logo=Mail.Ru)](mailto:alvarosamudio@criptext.com)
