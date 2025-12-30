@@ -14,7 +14,7 @@
   ![GitHub User's stars](https://img.shields.io/github/stars/alvarosamudio?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
   [![GitHub Sponsors](https://img.shields.io/github/sponsors/alvarosamudio?label=GH%20sponsors&style=flat)](https://github.com/sponsors/alvarosamudio)
 
-[![OS:Deepin 25 Preview](https://img.shields.io/badge/Deepin-25%20Preview-blue?style=flat-square&logo=deepin)](https://deepin.org)
+[![OS:Deepin 25.0.9](https://img.shields.io/badge/Deepin-25%20Preview-blue?style=flat-square&logo=deepin)](https://deepin.org)
   [![OS:macOS Sequoia](https://img.shields.io/badge/macOS-Sequoia-blue?style=flat-square&logo=apple)](https://www.apple.com/macos/macos-sequoia/)
   [![OS:SteamOS](https://img.shields.io/badge/SteamOS-Deck-blue?style=flat-square&logo=steamdeck)](https://www.steamdeck.com/en/software)
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
