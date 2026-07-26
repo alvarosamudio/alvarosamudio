@@ -57,19 +57,3 @@
 </picture>
 
 <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvarosamudio/alvarosamudio/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvarosamudio/alvarosamudio/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/alvarosamudio/alvarosamudio/output/github-contribution-grid-snake.svg" alt="Snake" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=400&size=18&duration=4000&pause=1500&color=8B8B8B&center=true&vCenter=true&width=720&lines=Security+is+not+a+product%2C+but+a+process.+%E2%80%94+Bruce+Schneier;The+only+truly+secure+system+is+one+that+is+powered+off...+%E2%80%94+Gene+Spafford;Treat+your+password+like+your+toothbrush.+%E2%80%94+Clifford+Stoll;If+you+think+technology+can+solve+your+security+problems...+%E2%80%94+Bruce+Schneier;There+are+only+two+types+of+companies...+%E2%80%94+Robert+Mueller;The+weakest+link+in+the+security+chain+is+usually+the+human+element.+%E2%80%94+Kevin+Mitnick;Complexity+is+the+worst+enemy+of+security.+%E2%80%94+Bruce+Schneier;Data+is+the+new+oil...+%E2%80%94+Clive+Humby;Without+data%2C+you're+just+another+person+with+an+opinion.+%E2%80%94+W.+Edwards+Deming;The+goal+is+to+turn+data+into+information...+%E2%80%94+Carly+Fiorina)](https://git.io/typing-svg)
-
-</div>
